@@ -1,8 +1,7 @@
-FROM abernix/meteord:base
-MAINTAINER Jesse Rosenberger
+FROM pvtdancer/meteord:base
 
 ARG NODE_VERSION
-ENV NODE_VERSION ${NODE_VERSION:-12.16.1}
+ENV NODE_VERSION ${NODE_VERSION:-12.18.3}
 
 ONBUILD RUN bash $METEORD_DIR/lib/install_meteor.sh
 ONBUILD COPY ./ /app
