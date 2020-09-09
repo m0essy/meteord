@@ -1,4 +1,4 @@
-[![Circle CI](https://circleci.com/gh/pvtdancer/meteord/tree/master.svg?style=svg)](https://circleci.com/gh/pvtdancer/meteord/tree/master)
+[![Circle CI](https://circleci.com/gh/m0essy/meteord/tree/master.svg?style=svg)](https://circleci.com/gh/m0essy/meteord/tree/master)
 
 # MeteorD - Docker image for MUP
 
