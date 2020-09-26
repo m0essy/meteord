@@ -8,6 +8,14 @@ Please see the explanation of the [tag variations](#tag-variations) (e.g. `-binb
 
 ### Node 12 (Meteor 1.11+)
 
+#### Node 12.18.4
+
+* `node-12-base`, `node-12.18.3-base`
+* `node-12-binbuild`, `node-12.18.3-binbuild`
+* `node-12-onbuild`, `node-12.18.3-onbuild`
+* `node-12-devbuild`, `node-12.18.3-devbuild`
+* added libreoffice for templating
+
 #### Node 12.18.3
 
 * `node-12-base`, `node-12.18.3-base`
